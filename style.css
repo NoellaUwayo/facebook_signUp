@@ -1,0 +1,54 @@
+body{
+    border: 1px solid black;
+    height: 600px;
+    width: 1000px;
+    margin-left:10% ;
+    
+}
+.parta{ 
+    height: 300px;
+    width: 1000px;
+    background-color: blue;
+    color:white;
+    
+}
+.topa{
+    margin-left: 10px;
+    font-family:serif;    
+}
+.topb{
+    margin-left: 500px; 
+    margin-bottom: 1000px;
+}
+.come{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: normal;
+
+}
+.net{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: initial;
+    margin-bottom: 1000px;
+}
+.form1{
+    margin-left:550px; 
+display: grid;
+grid-template-rows: repeat(2,1fr);
+}
+.partb{
+    height: 300px;
+    width: 1000px;
+    background-color:whitesmoke;
+}
+.form2{
+    
+    height: 250px;
+    width: 250px;
+    margin-left: 500px;
+    background-color: white;
+    }
+    
+    .input[type=text]{
+        margin-left: 5%;
+        border:none;
+    }
